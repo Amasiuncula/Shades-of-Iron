@@ -29,12 +29,14 @@ All armour sets have their unique **cloth physics** made in software provided by
 3. Open .rar part 1 and you will see all files you need.
 4. Go to v1.0 RELEASE folder inside the rar.
 5. Copy "DLC" and "Mods" folders, and paste straight into your game installation directory.
-6. Launch Script Merger and let it automatically solve the scripts.
+6. Launch Script Merger and let it automatically solve the script conflicts.
 7. Done. Check Necessary info and documents below to learn how to delve into the mod's contents.
+
+Extra: Inside your download, there are character modifications.
 
 
 # **Necessary information & documents**
-
+Everything you need can be found here: 
 
 
 
