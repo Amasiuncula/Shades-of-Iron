@@ -36,7 +36,7 @@ Extra: Inside your download, there are character modifications.
 
 
 # **Necessary information & documents**
-Everything you need can be found here: 
+Everything you need can be found here: https://github.com/Amasiuncula/Shades-of-Iron/wiki
 
 
 
