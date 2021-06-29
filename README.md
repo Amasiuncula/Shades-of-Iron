@@ -20,15 +20,13 @@ Greatswords & Spears come with increased reach. Daggers are made fast & unrelent
 
 All armour sets have their unique **cloth physics** made in software provided by Nvidia Apex PhysX.
 
+![ShadesOfIronConcept1](https://user-images.githubusercontent.com/66921024/123814461-5f792600-d8fe-11eb-9a1d-42f060efb077.jpg)
 
 
+# **Installation**
 
 
-
-
-
-
-
+# **Necessary information & documents**
 
 
 
