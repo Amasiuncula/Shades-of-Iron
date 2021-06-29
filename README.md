@@ -1,8 +1,8 @@
-# Shades-of-Iron
+# Shades of Iron
 An EXCESSIVELY VAST content pack of brand new armour, weapons and foes. All additional, no replacing. Merge friendly.
 
 
-## Welcome to the home page of the biggest content pack ever made for The Witcher 3!
+## Welcome to the home page of the biggest content pack ever made for **The Witcher 3!**
 
 This mod adds:
 A total of 25 new enemies and 542 new & functional items including;
