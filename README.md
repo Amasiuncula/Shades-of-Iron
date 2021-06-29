@@ -34,6 +34,9 @@ All armour sets have their unique **cloth physics** made in software provided by
 
 Extra: Inside your download, there are character modifications.
 
+Video Guide by eyeONE:
+
+[![Video by eyeONE](http://img.youtube.com/vi/RknQ7sicXdM/0.jpg)](https://www.youtube.com/watch?v=RknQ7sicXdM "How to Install")
 
 # **Necessary information & documents**
 Everything you need can be found here: https://github.com/Amasiuncula/Shades-of-Iron/wiki
