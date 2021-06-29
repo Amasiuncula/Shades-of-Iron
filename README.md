@@ -20,8 +20,7 @@ Greatswords & Spears come with increased reach. Daggers are made fast & unrelent
 
 All armour sets have their unique **cloth physics** made in software provided by Nvidia Apex PhysX.
 
-![ShadesOfIronConcept1](https://user-images.githubusercontent.com/66921024/123814461-5f792600-d8fe-11eb-9a1d-42f060efb077.jpg)
-
+[![ShadesOfIronConcept1](https://user-images.githubusercontent.com/66921024/123814461-5f792600-d8fe-11eb-9a1d-42f060efb077.jpg)](https://www.youtube.com/watch?v=DxFzpGMHvSk&t "Trailer on Youtube - by Osail")
 
 # **Installation**
 1. Look right, you will see Releases.
@@ -36,7 +35,7 @@ Extra: Inside your download, there are character modifications.
 
 Video Guide by eyeONE:
 
-[![Video by eyeONE](http://img.youtube.com/vi/RknQ7sicXdM/0.jpg)](https://www.youtube.com/watch?v=RknQ7sicXdM "How to Install")
+[![Video by eyeONE](http://img.youtube.com/vi/RknQ7sicXdM/0.jpg)](https://www.youtube.com/watch?v=RknQ7sicXdM "How to Install - by eyeONE")
 
 # **Necessary information & documents**
 Everything you need can be found here: https://github.com/Amasiuncula/Shades-of-Iron/wiki
