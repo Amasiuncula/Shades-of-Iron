@@ -23,12 +23,12 @@ All armour sets have their unique **cloth physics** made in software provided by
 [![ShadesOfIronConcept1](https://user-images.githubusercontent.com/66921024/123814461-5f792600-d8fe-11eb-9a1d-42f060efb077.jpg)](https://www.youtube.com/watch?v=DxFzpGMHvSk&t "Trailer on Youtube - by Osail")
 
 # **Installation**
-1. Look right, you will see Releases.
-2. Download the rar archive from GDrive link.
-3. Go to v1.0 RELEASE folder inside the rar.
+1. At the top right of this page, you will see Releases.
+2. Download the rar archive from GDrive link. Version 2.0 April is the latest version.
+3. Extract files within the RAR. Extracting is more reliable than drag & drop from the RAR window.
 4. Copy "DLC" and "Mods" folders, and paste straight into your game installation directory.
 5. Launch Script Merger and let it automatically solve the script conflicts.
-6. Done. Check Necessary info and documents below to learn how to delve into the mod's contents.
+6. You've installed the mod rightly. Check Necessary info and documents below to learn how to delve into the mod's contents.
 
 Extra: Inside your download, there are character modifications. Follow above instructions for them aswell. If you see a readme within, I advise following its specific instructions.
 
