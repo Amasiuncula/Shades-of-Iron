@@ -5,7 +5,7 @@ An EXCESSIVELY VAST content pack of brand new armour, weapons and foes. All addi
 ## Welcome to the home page of the biggest content pack ever made for **The Witcher 3!**
 
 This mod adds:
-A total of 25 new enemies and 542 new & functional items including;
+A total of 25 new enemy types and 542 new & functional items including;
 - **18** new armor sets for **Geralt**
 - **8** new armor sets for **female player character** (use with Geralt Doppler Reborn)
 - **10** new **Greatswords**
