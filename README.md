@@ -28,6 +28,7 @@ All armour sets have their unique **cloth physics** made in software provided by
 3. Extract files within the RAR. Extracting is more reliable than drag & drop from the RAR window.
 4. Copy "DLC" and "Mods" folders, and paste straight into your game installation directory.
 5. Launch Script Merger and let it automatically solve the script conflicts.
+5.5: IF you're on 4.04 version of the game, delete playerWitcher.ws from modShadesOfIron.
 6. You've installed the mod rightly. Check Necessary info and documents below to learn how to delve into the mod's contents.
 
 Extra: Inside your download, there are character modifications. Follow above instructions for them aswell. If you see a readme within, I advise following its specific instructions.
